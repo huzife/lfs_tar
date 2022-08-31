@@ -1,2 +1,2 @@
-*.tar.xz filter=lfs diff=lfs merge=lfs -text
 lfs-temp-tools-11.1-systemd.tar.xz filter=lfs diff=lfs merge=lfs -text
+lfs-temp-net-11.1-systemd.tar.xz filter=lfs diff=lfs merge=lfs -text
